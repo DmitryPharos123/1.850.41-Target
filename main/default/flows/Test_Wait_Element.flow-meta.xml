@@ -49,7 +49,7 @@
             <targetReference>Create_Opportunity</targetReference>
         </connector>
     </start>
-    <status>Active</status>
+    <status>Obsolete</status>
     <waits>
         <name>Wait_1_minute</name>
         <elementSubtype>WaitDuration</elementSubtype>
